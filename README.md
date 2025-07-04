@@ -1,3 +1,5 @@
+### Please note that the initial commit was made using someone else’s machine, which is why the author is listed as Jashwanth Domala. However, the entire code and implementation were done by me (Thrigun Chandra Gajavelly).
+
 # Personalized Nutrition & Fitness Recommendation System
 
 ## 🩺 Overview
